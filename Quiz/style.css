@@ -1,0 +1,40 @@
+.heading {
+    text-align: center;
+    margin-bottom: 70px;
+    text-transform: uppercase;
+}
+
+.box {
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 20px;
+    background-color: whitesmoke;
+    text-transform: uppercase;
+}
+
+.question {
+    font-size: 30px;
+}
+
+.score {
+    font-size: 60px
+}
+
+.answers {
+    text-align: center;
+    padding: 10px;
+    background-color: whitesmoke;
+    text-transform: uppercase;
+}
+
+.btn {
+    background-color: lightgray;
+    text-transform: uppercase;
+}
+
+.nextButton {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
